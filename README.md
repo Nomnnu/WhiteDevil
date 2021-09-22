@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/85664936?v=4"  width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="WhiteDevil" src="https://img.shields.io/badge/WhiteDevil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Blackwarrior" src="https://img.shields.io/badge/WhiteDevil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=Welcome+To+Blackwarrior+BOT+codded+by+Anish..."
             alt="Typing SVG"
         />
     </a>
